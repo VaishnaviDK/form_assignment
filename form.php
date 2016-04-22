@@ -9,7 +9,8 @@
  	Contact : <input type = "text" name = "contact" >
  	
  	E-mail : <input type="text" name="email">
-   
+   	
+	Address : <input type = "text" name = "address">
    <input type = "submit" name = "submit" value = "Submit">
  	</form>
 	echo "hello";
