@@ -12,5 +12,7 @@
    
    <input type = "submit" name = "submit" value = "Submit">
  	</form>
+	echo "hello";
+	echo "world";
  </body>
  </html>			
